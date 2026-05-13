@@ -2,6 +2,10 @@
 
 A web app for teams to plan projects, assign tasks with due dates, and track progress on a personal dashboard. Roles are per-project: whoever creates a project becomes its Admin and invites others as Admins or Members. Each user can be an Admin in one project and a Member in another.
 
+**Live demo:** https://team-task-managers.up.railway.app
+
+**Repository:** https://github.com/sujalkumar27/Team-Task-Manager-
+
 ## Tech stack
 
 - **Next.js 16** (App Router, TypeScript) — UI and REST API in one Node service
